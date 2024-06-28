@@ -25,3 +25,7 @@ Constraints:
 -231 <= x <= 231 - 1
 
 Follow up: Could you solve it without converting the integer to a string?
+
+# Answer
+
+![alt text](image.png)
